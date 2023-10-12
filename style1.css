@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+.rounded-column{
+    border-radius: 10px;
+    border-style: solid;
+}
+.container{
+    margin: 10px;
+    background-color: black;
+    font-family: sans-serif;
+}
+
+.message{
+    width: 400px;
+    height: 200px;
+    background-color: gray;
+
+}
+.phone{
+    background-color: gray;
+}
+.email{
+    background-color: gray;
+}
+.name{
+    background-color: gray;
+}
+.subject{
+    background-color: gray;
+}
+
+.input{
+    border-radius: 20px;
+}
+
+.size{
+    margin: 100px;
+
+}
+.p{
+    color: whitesmoke;
+}
+
+.grey{ filter: grayscale(100%);}
+
+
+
